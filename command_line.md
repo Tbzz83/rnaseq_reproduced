@@ -74,7 +74,4 @@ Rscript ~/rcode/code/create_heatmap.r
 ```
 *create_heatmap works using deseq2 and creates the following visualization*
 
-
-
-
-
+![PDF](heatmap.pdf)
